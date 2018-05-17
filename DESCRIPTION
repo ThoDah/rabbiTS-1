@@ -1,4 +1,4 @@
-Package: temp
+Package: rabbiTS
 Type: Package
 Title: Time Series Calculations and Visualization
 Version: 0.0.3
